@@ -1,0 +1,59 @@
+html body #MAIN {
+  padding: 0px;
+  margin: 0px;
+}
+
+
+body {
+  font-family: 'Jost', sans-serif;
+  letter-spacing: 4px;
+  color: #171A1F;
+  background-color: #D9D4C5;
+}
+
+.navbar {
+  display: inline-block;
+  font-size: 14px;
+  width: 100vw;
+}
+
+
+#websitename {
+  margin-top: 12px;
+  margin-left: 12px;
+  margin-right: 600px;
+
+  font-size: 24px;
+  letter-spacing: 8px;
+}
+
+a {
+  color: #171A1F
+}
+
+a.link {
+  text-decoration: none;
+}
+
+a.hover {
+  color: #BFB8B0;
+}
+
+#content {
+  height: 480px;
+  margin-left: 12px;
+  margin-top: 120px;
+}
+
+#change {
+  font-size: 60px;
+}
+
+#footer {
+  text-align: center;
+  font-size: 14px;
+
+  border-top: 2px solid #171A1F;
+  padding-top: 10px;
+  padding-bottom: 2px;
+}
