@@ -14,30 +14,32 @@ body {
 .navbar {
   display: inline-block;
   font-size: 14px;
-  width: 100vw;
 }
 
 
 #websitename {
-  margin-top: 12px;
-  margin-left: 12px;
+  margin-left: 16px;
   margin-right: 600px;
 
-  font-size: 24px;
+  font-size: 32px;
   letter-spacing: 8px;
+
+  position: relative;
+  top: 4px;
 }
+
 
 a {
   color: #171A1F
 }
 
-a.link {
+/* a.link {
   text-decoration: none;
 }
 
 a.hover {
   color: #BFB8B0;
-}
+} */
 
 #content {
   height: 480px;
